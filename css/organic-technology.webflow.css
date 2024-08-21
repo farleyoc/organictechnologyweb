@@ -329,7 +329,7 @@ figcaption {
 }
 
 ._404-page {
-  background-image: linear-gradient(#15151580, #15151580), url('../images/room-eibtEHb7eBQ-unsplash.jpg');
+  background-image: linear-gradient(#15151580, #15151580), url('../images/room-eibtEHb7eBQ-unsplash_1.avif');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -966,7 +966,7 @@ figcaption {
 
 .bg-image._1 {
   opacity: .6;
-  background-image: url('../images/troy-t-1457080-unsplash.jpg');
+  background-image: url('../images/troy-t-1457080-unsplash_1.avif');
   background-position: 50%;
   background-size: cover;
 }
@@ -982,7 +982,7 @@ figcaption {
 
 .bg-image.header-image-1 {
   opacity: .4;
-  background-image: url('../images/samuel-zeller-34751-unsplash.jpg');
+  background-image: url('../images/samuel-zeller-34751-unsplash_1.avif');
   background-size: cover;
   height: 160%;
 }
@@ -994,77 +994,74 @@ figcaption {
 
 .bg-image.header-image-2 {
   opacity: .5;
-  background-image: url('../images/brooke-cagle-1181672-unsplash.jpg');
+  background-image: url('../images/brooke-cagle-1181672-unsplash_1.avif');
   background-size: cover;
   height: 160%;
 }
 
 .bg-image._3 {
   opacity: .4;
-  background-image: url('../images/adrien-converse-505736-unsplash.jpg');
+  background-image: url('../images/adrien-converse-505736-unsplash.avif');
   background-size: cover;
 }
 
 .bg-image.hero-v1-image {
   opacity: 1;
-  background-image: linear-gradient(#220e0033, #220e0033), url('../images/Background---frame-at-0m0s.jpg');
-  background-position: 0 0, 50%;
-  background-repeat: repeat, no-repeat;
-  background-size: auto, cover;
+  background-image: linear-gradient(#000, #000);
 }
 
 .bg-image.blog-image {
   opacity: .2;
-  background-image: url('../images/samuel-zeller-34751-unsplash.jpg');
+  background-image: url('../images/samuel-zeller-34751-unsplash_1.avif');
   background-size: cover;
   height: 160%;
 }
 
 .bg-image._4 {
   opacity: .8;
-  background-image: url('../images/andrey-zvyagintsev-1360431-unsplash.jpg');
+  background-image: url('../images/andrey-zvyagintsev-1360431-unsplash.avif');
   background-size: cover;
 }
 
 .bg-image.header-image-3 {
   opacity: .45;
-  background-image: url('../images/contact.jpg');
+  background-image: url('../images/contact_1.avif');
   background-position: 50%;
   height: 160%;
 }
 
 .bg-image._7 {
-  background-image: url('../images/brooke-cagle-1181683-unsplash.jpg');
+  background-image: url('../images/brooke-cagle-1181683-unsplash_1.avif');
 }
 
 .bg-image.header-image-5 {
   opacity: .7;
-  background-image: url('../images/what-we-do.jpg');
+  background-image: url('../images/what-we-do_1.avif');
   background-position: 50% 80%;
   height: 160%;
 }
 
 .bg-image._5 {
   opacity: .6;
-  background-image: url('../images/luca-bravo-1202673-unsplash.jpg');
+  background-image: url('../images/luca-bravo-1202673-unsplash_1.avif');
 }
 
 .bg-image.header-image-4 {
   opacity: .35;
-  background-image: url('../images/emily-karakis-1373701-unsplash.jpg');
+  background-image: url('../images/emily-karakis-1373701-unsplash_1.avif');
   background-position: 50%;
   height: 160%;
 }
 
 .bg-image.header-image-6 {
-  background-image: url('../images/christian-lambert-1532785-unsplash.jpg');
+  background-image: url('../images/christian-lambert-1532785-unsplash_1.avif');
   background-position: 50% 70%;
   height: 160%;
 }
 
 .bg-image.header-image-7 {
   opacity: .4;
-  background-image: url('../images/london-wood-co-1378329-unsplash.jpg');
+  background-image: url('../images/london-wood-co-1378329-unsplash_1.avif');
   background-position: 50% 60%;
   background-size: cover;
   height: 160%;
@@ -1072,14 +1069,14 @@ figcaption {
 
 .bg-image.header-image-8 {
   opacity: .5;
-  background-image: url('../images/adrien-converse-505736-unsplash.jpg');
+  background-image: url('../images/adrien-converse-505736-unsplash.avif');
   background-size: cover;
   height: 160%;
 }
 
 .bg-image.intro-image {
   opacity: .35;
-  background-image: url('../images/tarn-nguyen-4a52btspyY8-unsplash.jpg');
+  background-image: url('../images/tarn-nguyen-4a52btspyY8-unsplash_1.avif');
   background-position: 50%;
   background-size: cover;
   height: 160%;
@@ -1570,6 +1567,7 @@ figcaption {
 
 .instagram-photo {
   width: 100%;
+  height: auto;
 }
 
 .features-v2 {
@@ -1661,7 +1659,7 @@ figcaption {
 }
 
 .side-video {
-  background-image: linear-gradient(#1515154d, #1515154d), url('../images/tarn-nguyen-4a52btspyY8-unsplash.jpg');
+  background-image: linear-gradient(#1515154d, #1515154d), url('../images/tarn-nguyen-4a52btspyY8-unsplash_1.avif');
   background-position: 0 0, 65%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -1847,7 +1845,7 @@ figcaption {
 
 .protected-page {
   color: #fff;
-  background-image: linear-gradient(#15151580, #15151580), url('../images/samuel-zeller-34751-unsplash.jpg');
+  background-image: linear-gradient(#15151580, #15151580), url('../images/samuel-zeller-34751-unsplash_1.avif');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -1956,7 +1954,7 @@ figcaption {
 }
 
 .coming-soon {
-  background-image: linear-gradient(#1515154d, #1515154d), url('../images/marian-kroell-1521620-unsplash.jpg');
+  background-image: linear-gradient(#1515154d, #1515154d), url('../images/marian-kroell-1521620-unsplash_1.avif');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -2257,7 +2255,7 @@ figcaption {
   right: 0;
 }
 
-.link-highlight.nav-link-line, .link-highlight.nav-link-v2-line {
+.link-highlight.nav-link-line {
   height: 3px;
   bottom: 45%;
 }
@@ -2674,7 +2672,7 @@ figcaption {
 
 .fullscreen-intro {
   z-index: 0;
-  background-image: linear-gradient(#15151580, #15151580), url('../images/luca-bravo-1202673-unsplash.jpg');
+  background-image: linear-gradient(#15151580, #15151580), url('../images/luca-bravo-1202673-unsplash_1.avif');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -2692,15 +2690,6 @@ figcaption {
 .menu-icon-line-bottom {
   background-color: #fff;
   height: 2px;
-}
-
-.nav-search-button {
-  z-index: 2;
-  color: #151515;
-  background-color: #0000;
-  height: 40px;
-  padding: 8px 36px 8px 16px;
-  position: relative;
 }
 
 .footer-v1-social {
@@ -3138,6 +3127,7 @@ figcaption {
   flex: none;
   width: 72px;
   margin-bottom: 24px;
+  font-family: Ailerons, sans-serif;
   position: relative;
 }
 
@@ -3527,6 +3517,7 @@ figcaption {
 .circle-icon {
   z-index: 2;
   width: 24px;
+  height: auto;
   position: relative;
 }
 
@@ -3635,6 +3626,7 @@ figcaption {
 .instagram-icon {
   opacity: .05;
   width: 20vw;
+  height: auto;
   position: absolute;
 }
 
@@ -3742,6 +3734,7 @@ figcaption {
 }
 
 .client-logo {
+  width: auto;
   height: 24%;
 }
 
@@ -3820,6 +3813,7 @@ figcaption {
 
 .testimonial-v2-logo {
   opacity: .5;
+  width: auto;
   height: 20px;
   margin-top: 24px;
   margin-right: 24px;
@@ -4032,6 +4026,7 @@ figcaption {
 .promo-image-1 {
   z-index: 1;
   width: 66.66%;
+  height: auto;
   margin-left: auto;
   margin-right: 0;
   position: relative;
@@ -4040,6 +4035,7 @@ figcaption {
 
 .promo-image-2 {
   width: 40%;
+  height: auto;
   position: absolute;
   left: 0;
   box-shadow: 6px 6px 24px #000000b3;
@@ -4306,6 +4302,7 @@ figcaption {
 
 .contact-social-icon {
   width: 32px;
+  height: auto;
 }
 
 .portfolio-icon {
@@ -4755,6 +4752,11 @@ figcaption {
   position: relative;
 }
 
+.image, .image-2, .image-3, .image-4, .image-5 {
+  width: auto;
+  height: auto;
+}
+
 @media screen and (min-width: 1280px) {
   .client {
     max-height: 144px;
@@ -4769,7 +4771,7 @@ figcaption {
   }
 
   .bg-image.header-image-3 {
-    background-image: url('../images/andrey-zvyagintsev-1360431-unsplash.jpg');
+    background-image: url('../images/andrey-zvyagintsev-1360431-unsplash.avif');
   }
 
   .work-presentation {
@@ -5460,12 +5462,6 @@ figcaption {
   .work-nav-arrow {
     margin-left: 16px;
     margin-right: 16px;
-  }
-
-  .nav-search-button {
-    color: #0000;
-    width: 48px;
-    padding: 12px;
   }
 
   .footer-v1-social {
@@ -6400,7 +6396,7 @@ figcaption {
     margin: 12px;
   }
 
-  .link-highlight.nav-link-line, .link-highlight.nav-link-v2-line {
+  .link-highlight.nav-link-line {
     height: 3px;
     bottom: 40%;
   }
@@ -6493,11 +6489,6 @@ figcaption {
     order: 1;
     margin-top: 16px;
     display: none;
-  }
-
-  .nav-search-button {
-    width: 44px;
-    padding: 10px;
   }
 
   .testimonial-v1-text {
