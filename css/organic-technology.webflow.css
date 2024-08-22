@@ -4761,6 +4761,10 @@ figcaption {
   .client {
     max-height: 144px;
   }
+
+  .background-video {
+    background-color: #00000059;
+  }
 }
 
 @media screen and (min-width: 1920px) {
@@ -4772,6 +4776,10 @@ figcaption {
 
   .bg-image.header-image-3 {
     background-image: url('../images/andrey-zvyagintsev-1360431-unsplash.avif');
+  }
+
+  .rating-star {
+    height: auto;
   }
 
   .work-presentation {
