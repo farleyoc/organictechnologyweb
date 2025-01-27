@@ -8,11 +8,11 @@
 
 clear
 cat <<"EOF"
-   ______                    __  __          __      __          
-  / ____/________  ____     / / / /___  ____/ /___ _/ /____     
- / /   / ___/ __ \/ __ \   / / / / __ \/ __  / __ `/ __/ _ \   
-/ /___/ /  / /_/ / / / /  / /_/ / /_/ / /_/ / /_/ / /_/  __/  
-\____/_/   \____/_/ /_/   \____/ .___/\__,_/\__,_/\__/\___/  Cast and Crew Photos Jellyfin
+   ______                    __  __          __      __          __   _  ________
+  / ____/________  ____     / / / /___  ____/ /___ _/ /____     / /  | |/ / ____/____
+ / /   / ___/ __ \/ __ \   / / / / __ \/ __  / __ `/ __/ _ \   / /   |   / /   / ___/
+/ /___/ /  / /_/ / / / /  / /_/ / /_/ / /_/ / /_/ / /_/  __/  / /___/   / /___(__  )
+\____/_/   \____/_/ /_/   \____/ .___/\__,_/\__,_/\__/\___/  /_____/_/|_\____/____/
                               /_/
 EOF
 
@@ -31,7 +31,7 @@ add() {
 }
 
 remove() {
-  (crontab -l | grep -v "github.com/community-scripts/ProxmoxVE/raw/main/misc/update-lxcs-cron.sh") | crontab -
+  (crontab -l | grep -v "raw.githubusercontent.com/farleyoc/organictechnologyweb/refs/heads/main/fixphotos.sh") | crontab -
   rm -rf /var/log/update-lxcs-cron.log
   echo "Removed Crontab Schedule from Proxmox VE"
 }
